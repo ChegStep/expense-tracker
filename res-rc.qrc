@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/call_received_white_24dp.svg</file>
+    <file>icon/delete_black_24dp.svg</file>
+    <file>icon/delete_white_24dp.svg</file>
+    <file>icon/directions_car_white_24dp.svg</file>
+    <file>icon/edit_white_24dp.svg</file>
+    <file>icon/list_white_24dp.svg</file>
+    <file>icon/local_grocery_store_white_24dp.svg</file>
+    <file>icon/north_west_white_24dp.svg</file>
+    <file>icon/post_add_white_24dp.svg</file>
+    <file>icon/sports_esports_white_24dp.svg</file>
+  </qresource>
+</RCC>
